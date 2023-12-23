@@ -60,7 +60,7 @@ In addition, four recommendation engines were built based on different ideas and
 
 2. **movies_recommender.ipynb:** The Jupyter notebook containing code for the recommendation engines.
 
-3. **Movies Final Report.pdf:** The Final Report.
+3. **Report.pdf:** The Final Report.
 
 4. **scraper:** The folder containing all the scrapers used to gather data from TMDB.
 
