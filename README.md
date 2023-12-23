@@ -56,13 +56,17 @@ In addition, four recommendation engines were built based on different ideas and
 
 ## Repository Structure
 
-1. **movies_eda.ipynb:** The Jupyter notebook that contains the EDA and narrates the Story of Film.
+1. **eda.ipynb:** The Jupyter notebook that contains the EDA and narrates the Story of Film.
 
-2. **movies_recommender.ipynb:** The Jupyter notebook containing code for the recommendation engines.
+2. **recommender_system.ipynb:** The Jupyter notebook containing code for the recommendation engines.
 
 3. **Report.pdf:** The Final Report.
 
 4. **scraper:** The folder containing all the scrapers used to gather data from TMDB.
+
+5. **image_result:** The folder containing all EDA images.
+
+6. **api_tmdb:** The Python funcion to read and store API TMDB KEYS
 
 
 ## Code credit
