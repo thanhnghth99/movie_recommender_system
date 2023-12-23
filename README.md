@@ -66,7 +66,7 @@ In addition, four recommendation engines were built based on different ideas and
 
 5. **image_result:** The folder containing all EDA images.
 
-6. **api_tmdb:** The Python funcion to read and store API TMDB KEYS
+6. **api_tmdb:** The Python function to read and store personal API TMDB KEY.
 
 
 ## Code credit
